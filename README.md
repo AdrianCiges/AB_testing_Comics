@@ -78,9 +78,10 @@
 
 &emsp; &emsp; &emsp; <img src="https://github.com/AdrianCiges/AB_testing_Comics/blob/main/img/campanas_test2.png" width="240" height="150"> <br />
 
-❌ Para el primer experimento los resultados muestran que empeora el objetivo en un 350% con una probabilidad del 100%. <br />
+✅ Para el tercer experimento los resultados muestran que empeora el objetivo en un 350% con una probabilidad del 100%. <br />
 
 &emsp; &emsp; C = Grupo de Control <br />
 &emsp; &emsp; T = Grupo de Tratamiento <br />
 
 &emsp; &emsp; &emsp; <img src="https://github.com/AdrianCiges/AB_testing_Comics/blob/main/img/campanas_test3.png" width="240" height="150"> <br />
+
