@@ -3,7 +3,8 @@
 [1 - Objetivo 🎯](#O)<br />
 [2 - Diseño del Experimento ⚗️](#DE) <br />
 [3 - Testeo 🔎](#TE) <br />
-[3 - Análisis bayesiano de resultados 📈](#BY) <br />
+[4 - Análisis bayesiano de resultados 📈](#BY) <br />
+[5 - Versión final de la web 💻](#PC) <br />
  
 ## 1 - OBJETIVO 🎯<a name="O"/>   
 💥 Decidir los cambios a realizar en la web de venta de cómics para tratar mejorar la tasa de conversión. <br />
@@ -84,4 +85,9 @@
 &emsp; &emsp; T = Grupo de Tratamiento <br />
 
 &emsp; &emsp; &emsp; <img src="https://github.com/AdrianCiges/AB_testing_Comics/blob/main/img/campanas_test3.png" width="240" height="150"> <br />
+
+
+## 5 - VERSIÓN FINAL DE LA WEB 💻 <a name="PC"/> 
+
+https://user-images.githubusercontent.com/109532909/205005031-42fe1558-1eac-467d-ac6d-1dd2ec9da1e0.mp4
 
